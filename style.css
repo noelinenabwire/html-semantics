@@ -1,0 +1,26 @@
+/* body{
+   background-color: red; 
+}
+
+.btn{
+    width:100px;
+    height:100px;
+    background-color: blueviolet;
+}
+.fig {
+    width: 300px;
+    height: 200px;
+} */
+form.form-example{
+    display : table;
+}
+div.form-example{
+    display: table-row;
+}
+lable,input{
+    display: table-cell;
+    margin-bottom: 10px;
+}
+lable{
+    padding-right: 10px;
+}
